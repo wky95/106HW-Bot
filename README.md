@@ -16,7 +16,7 @@
 <img src="https://cdn.discordapp.com/attachments/870320793400270860/873232997992792084/unknown.png"  width="500px">
 <br>
 <h2>Second. Fork the repository</h2>
-<div>1. Go to <a href="https://replit.com/@KenIsGenius/106-HW-Bot">Here</a>, and then sign in if you have an acount, else create an account.<br>You will see this.</div>
+<div>1. Go <a href="https://replit.com/@KenIsGenius/106-HW-Bot">Here</a>, and then sign in if you have an acount, else create an account.<br>You will see this.</div>
 <img src="https://cdn.discordapp.com/attachments/870320793400270860/873235949172162650/unknown.png" width="500px">
 <div>2. Click "Fork", and then you will see this. Click the lock on the left hand side.</div>
 <img src="https://cdn.discordapp.com/attachments/870320793400270860/873237636565844058/unknown.png" width="500px"">
