@@ -1,5 +1,5 @@
 # Discord Bot -- YPHS Homework
-<h3><b>How to run your own yphs homework bot on discord</b></h3>
+<h3><b>How to set up your own yphs homework bot on discord</b></h3>
 <h2>First. Getting your own discord bot</h2>
 <div>1. Go to <a href="https://discord.com/developers/applications">Discord Developer</a>, and then sign in to your account.</div>
 <div>2. Click "New Application", and enter your application's name.</div>
